@@ -1,0 +1,21 @@
+{
+        "/api": "api docs",
+        "/api/signup": "signup",
+        "/api/signin": "signin",
+        "/api/signout": "signout",
+        "/api/addntn": "addntn",
+        "/api/user/:userId/dashbboard":  "getcurrency",
+        "/api/user/:userId/dataportal":  "getlist",
+        "/api/user/:userId/stockmanage": "getstock",
+        "/api/user/:userId": "get/update/delete user",
+        "/api/posts": "get all posts",
+        "/api/post/new/:userId": "create new post",
+        "/api/posts/by/:userId": "get posts by user",
+        "/api/post/:postId": "update/delete post",
+        "/api/shares": "get all shares",
+        "/api/share/new/:userId": "create new share",
+        "/api/shares/by/:userId": "get shares by user",
+        "/api/share/:shareId": "update/delete share"
+        
+        
+}
